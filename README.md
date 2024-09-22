@@ -8,6 +8,7 @@ I need to automate http://www.way2automation.com/angularjs-protractor/webtables/
 
 Scenario 1
 Add a user and validate the user has been added to the table
+
 Scenario 2
 Delete the user "novak" from the table and validate the user has been deleted.
 
