@@ -1,4 +1,4 @@
-# mayank_purohit_teladoc_challenge
+# auto test
 
 # Webtables Automation
 
@@ -20,8 +20,7 @@ Maven: Maven should be installed and added to the path.
 
 # Running the tests
 
-Clone the git repository 
-cd to the directory mayank_purohit_teladoc_challenge
+
 
 Run either of the following commands:
 mvn clean test
